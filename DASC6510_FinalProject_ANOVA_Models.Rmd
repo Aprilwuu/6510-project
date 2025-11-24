@@ -1,5 +1,5 @@
 ---
-title: "6510 Project ANOVA Models"
+title: "DASC 6510 Project ANOVA Models"
 author: "Alisa Dmitrieva"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -340,3 +340,4 @@ However, in the previous reduced model, the p-value associated with the date:var
 factorialAnova_reduced <- factorialAnova4
 summary(factorialAnova_reduced)
 ```
+
